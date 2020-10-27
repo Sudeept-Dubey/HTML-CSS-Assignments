@@ -1,0 +1,83 @@
+body{
+    background-color:grey;
+}
+.h1{
+    text-align: center;
+    color: black;
+}
+
+
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: white;
+    font-size: 24px;
+    padding: 25px;
+}
+.parallax{
+    background: url('Images/Photography0.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.parallax1{
+    background: url('Images/Photography1.jfif') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.container1{
+    max-width: 960px;
+    margin: 0 auto;
+    background: white;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.parallax2{
+    background: url('Images/P.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.container2{
+    max-width: 960px;
+    margin: 0 auto;
+    background:white;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.parallax3{
+    background: url('Images/Photography2.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.container3{
+    max-width: 960px;
+    margin: 0 auto;
+    background: white;
+    font-size: 24px;
+    padding: 25px;
+}
+
+.parallax4{
+    background: url('Images/Photography3.jfif') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.container4{
+    max-width: 960px;
+    margin: 0 auto;
+    background: white;
+    font-size: 24px;
+    padding: 25px;
+}
